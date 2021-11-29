@@ -6,7 +6,7 @@
 </div>
 
 - 👨‍💻 I'm currently working with internal technology support
-- 📚 I'm studying development. Current: vueJs. The next will be C#
+- 📚 I'm studying development. Current: VueJS and Elixir.
 - ❤️ I love practicing my knowledge with games.
 
 <div align="center">

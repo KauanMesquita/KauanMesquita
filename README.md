@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/kauan-mesquita/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-- 👨‍💻 I'm currently working with internal technology support
-- 📚 I'm studying development. Current: VueJS and Elixir.
 - ❤️ I love practicing my knowledge with games.
 
 <div align="center">
